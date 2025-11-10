@@ -13,7 +13,9 @@ My name is Andrew Wang and I am a Master's student at the University of Michigan
 
 Professional life
 ------
-I worked at Amazon last summer as a software development engineer intern. I spent the majority of my time working on an API to make AWS Trusted Advisor's internal code review workflow more efficient. 
+I worked at Amazon last summer as a software development engineer intern. Worked on the cloud optimization team creating an API to speed up AWS Trusted Advisor's internal code review workflow. Learn more about what Trusted Advisor does [here](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/).
+
+The summer before that, I worked at an enterprise storage startup called Infinidat as a software engineer intern. Mainly focused creating a Retrieval-Augmented Generation reference architecture for clients and developing an internal chatbot. Check out this [solution brief](https://www.infinidat.com/en/resource-pdfs/ai-workloads.pdf) that I helped create!
 
 Everything else
 ------
