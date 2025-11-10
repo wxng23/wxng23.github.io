@@ -19,5 +19,5 @@ The summer before that, I worked at an enterprise storage startup called Infinid
 
 Everything else
 ------
-I love soccer. Played ECNL before college, club soccer at Michigan, and semi-pro teams over the summer. Liverpool fan - played for their international academy when I was younger.
+I love soccer. Played ECNL before college, club soccer at Michigan, and semi-pro teams over the summer. Liverpool fan - played for their international academy when I was younger. If you want to see some high school clips, you can find them [here](https://www.hudl.com/video/3/11763537/6252817f90ef90172cbed268)
 ![Me playing soccer](/images/footy.png)
